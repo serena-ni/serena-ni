@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Serena</h1>
-<h3 align="center">A high school student in the Bay Area</h3>
+<h3 align="center">Hi, I'm Serena, a high school student in the Bay Area</h3>
 
 🌱 I'm currently learning **C++** and **PyTorch**. 
 
