@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Serena. </h1>
+<h1 align="center">Hi, I'm Serena! </h1>
 
 🌱 I'm a high school student in the Bay Area. 
 
