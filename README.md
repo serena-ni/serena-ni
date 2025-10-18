@@ -1,6 +1,8 @@
-<h3 align="center">Hi, I'm Serena, a high school student in the Bay Area</h3>
+<h3 align="center">Hi, I'm Serena. </h3>
 
-🌱 I'm currently learning **C++** and **PyTorch**. 
+🌱 I'm a high school student in the Bay Area. 
+
+💡 I'm currently learning **C++** and **PyTorch**. 
 
 ✉️ Reach me at **yni.serena@gmail.com**
 
